@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.ww{
+    display: flex;
+    justify-content: space-between;
+    gap: -50;
+}
+
+.fr{
+    justify-content: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ol{
+    display: flex;
+    justify-content: center;
+}
+
+.zz{
+    display: flex;
+    justify-content: center;
+}
+
+.xs{
+    display: flex;
+    justify-content: center;
+}
+
+.mm{
+    display: flex;
+    gap: 160px;
+}
+
+.qq{
+    display: flex;
+    justify-content: center;
+}
